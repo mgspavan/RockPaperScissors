@@ -1,4 +1,4 @@
-#  Rock, Paper, Scissors(https://mgspavan.github.io/RockPaperScissors/)
+#  [Rock, Paper, Scissors](https://mgspavan.github.io/RockPaperScissors/)
 
 ![Design preview for the Rock, Paper, Scissors coding challenge](./design/desktop-preview.jpg)
 
